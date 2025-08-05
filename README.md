@@ -1,2 +1,3 @@
-# WEBSITE-TUTORIAL
-This a practical  step to step tutorial on how to develop a website ,its my first website or practice
+ WEBSITE-TUTORIAL
+I am CPA Joseph Opado,an accounting student at maseno university.
+I am also an enthusiast about  computing and desire to make my own website
